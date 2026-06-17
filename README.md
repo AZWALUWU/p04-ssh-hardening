@@ -1,4 +1,4 @@
-Here is a comprehensive, production-ready documentation guide written in English and formatted explicitly in Markdown. You can copy and paste this directly into your GitHub repository's **`README.md`** file for your project submission.
+![Logo Proyek](./p04-ssh.png)
 
 ---
 
